@@ -1,0 +1,4 @@
+Many of us aware about the version control when it comes to work with multiple developers on a single project and collaborate with them. There is no doubt that version control make developers work more easy and fast. In most of the organization developers use either Centralized Version Control System(CVCS) like Subversion(SVN) or Concurrent Version System(CVS) or Distributed Version Control System(DVCS) like Git (Written in C), Mercurial (Written in Python) or Bazaar (Written in Python).
+
+Now come to the point, which one is best or which one we need to choose? We will compare each one’s workflow, learning curve, security, popularity, and other aspects.
+Firstly we need to break a myth which most of the beginners have about DVCS is that “There is no central version in the code or no master branch.” That’s not true, In DVCS there is also a master branch or central version in the code but it works in a different way than centralized source control.
